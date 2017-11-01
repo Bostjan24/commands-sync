@@ -1,0 +1,12 @@
+ci3	~/.config/i3/config.base
+cra	~/.config/ranger/rc.conf.base
+cqb	~/.config/qutebrowser/config.py
+cte	~/.config/termite/config
+cba	~/.bashrc.base
+ces	~/Dropbox/Computing/Linux/Shortcuts/editingShortcuts.txt
+cms	~/Dropbox/Computing/Linux/Shortcuts/movementShortcuts.txt
+csp	~/Dropbox/Computing/Linux/Shortcuts/i3autoStart.txt
+cea	~/Dropbox/Computing/Linux/Shortcuts/i3execAlways.txt
+cky	~/Dropbox/Computing/Linux/Shortcuts/i3keys.txt
+cmu	~/.mutt/muttrc
+cem	~/.emacs

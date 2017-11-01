@@ -1,0 +1,13 @@
+Print	scrot '%Y-%m-%d_scrot.png' -e 'mv $f ~/Dropbox/Pictures/Screenshots/'
+Shift+b	qutebrowser
+F11	amixer sset Master 5%-
+F12	amixer sset Master 5%+
+F9	mpc toogle
+F10	mpc next
+F8	mpc prev
+shift+p	shutdown now
+shift+f	termite -e ranger
+shift+m	termite -e neomutt
+shift+x	~/.config/i3/lock.sh
+m	synclient TouchpadOff=$(synclient -l | grep -c 'TouchpadOff.*=.*0')
+XF86AudioMute	pactl set-sink-mute 0 toggle
