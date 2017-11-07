@@ -17,7 +17,8 @@ ce	~/Dropbox/Computing/Emacs
 cpa	~/Dropbox/Computing/Programming
 cpp	~/Dropbox/Computing/Programming/Python
 cps	~/Dropbox/Computing/Programming/c_sharp
-cw	~/Dropbox/Computing/Website
+cwa	~/Dropbox/Computing/CSwebsite
+cwp	~/Dropbox/Computing/CSwebsite/percentileFeedback
 cW	~/Dropbox/Computing/Windows
 ma	~/Dropbox/Music
 my	~/Dropbox/Music/youtube
@@ -42,7 +43,10 @@ i3	~/.config/i3
 ra	~/.config/ranger
 te	~/.config/termite
 qb	~/.config/qutebrowser
-es	/mnt/seagate
+esa	/mnt/seagate
+esB	/mnt/seagate/BostjanBackup
+esra	/mnt/seagate/Računalništvo
+esrE	/mnt/seagate/Računalništvo/EliTheComputerGuy
 eg	/mnt/green
 eB	/mnt/Bostjan1
 em	/mnt/multiboot

@@ -45,6 +45,7 @@ with open(editingShortcuts, 'r') as conf:
 with open(i3keys, 'r') as keys:
     i3c+=("\n"+"# Custom keybindings"+"\n")
     for line in csv.reader(keys, dialect="excel-tab"):
+        #print ("0"+line[0]+" & 1"+line[1])
         i3c+=("bindsym $mod+"+line[0]+" exec --no-startup-id "+line[1]+"\n")
     i3c+="\n"
 

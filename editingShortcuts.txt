@@ -5,7 +5,7 @@ cte	~/.config/termite/config
 cba	~/.bashrc.base
 ces	~/Dropbox/Computing/Linux/Shortcuts/editingShortcuts.txt
 cms	~/Dropbox/Computing/Linux/Shortcuts/movementShortcuts.txt
-csp	~/Dropbox/Computing/Linux/Shortcuts/i3autoStart.txt
+cas	~/Dropbox/Computing/Linux/Shortcuts/i3autoStart.txt
 cea	~/Dropbox/Computing/Linux/Shortcuts/i3execAlways.txt
 cky	~/Dropbox/Computing/Linux/Shortcuts/i3keys.txt
 cmu	~/.mutt/muttrc

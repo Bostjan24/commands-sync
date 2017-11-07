@@ -1,8 +1,10 @@
-sysclient TouchpadOff=1
+synclient TouchpadOff=1
 qutebrowser
 compton --no-fading-openclose
-redshift -i 6000:3000 -b 1:0.9
+redshift -t 6000:3000
 wal -t -R
 setxkbmap si
 dropbox-cli start
-xrandr | grep 'HDMI1 connected' && xrandr --output eDP1 --auto --output HDMI1 --auto --right-of eDP1
+xrandr --output eDP-1 --auto --output HDMI-1 --auto --right-of eDP-1
+mpd ~/.config/mpd/mpd.conf
+bash ~/Dropbox/Computing/Linux/Scripts/walk.sh
