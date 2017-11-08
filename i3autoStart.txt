@@ -8,3 +8,4 @@ dropbox-cli start
 xrandr --output eDP-1 --auto --output HDMI-1 --auto --right-of eDP-1
 mpd ~/.config/mpd/mpd.conf
 bash ~/Dropbox/Computing/Linux/Scripts/walk.sh
+selfspy
