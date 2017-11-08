@@ -1,2 +1,0 @@
-/home/bostjan/Dropbox/Computing/Linux/Shortcuts/syncShortcuts.py
-feh --bg-scale /home/bostjan/.config/i3/wallpaper.png
