@@ -3,7 +3,7 @@ cra	~/.config/ranger/rc.conf.base
 cqb	~/.config/qutebrowser/config.py
 cte	~/.config/termite/config
 cba	~/.bashrc.base
-ces	~/Dropbox/Computing/Linux/Shortcuts/editingShortcuts.txt
-cms	~/Dropbox/Computing/Linux/Shortcuts/movementShortcuts.txt
+ces	~/Computing/Linux/Shortcuts/editingShortcuts.txt
+cms	~/Computing/Linux/Shortcuts/movementShortcuts.txt
 cmu	~/.mutt/muttrc
 cem	~/.emacs

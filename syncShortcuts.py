@@ -1,8 +1,8 @@
 #!/usr/bin/python
 import csv
 
-movementShortcuts="/home/bostjan/Dropbox/Computing/Linux/Shortcuts/movementShortcuts.txt"
-editingShortcuts="/home/bostjan/Dropbox/Computing/Linux/Shortcuts/editingShortcuts.txt"
+movementShortcuts="/home/bostjan/Computing/Linux/Shortcuts/movementShortcuts.txt"
+editingShortcuts="/home/bostjan/Computing/Linux/Shortcuts/editingShortcuts.txt"
 
 ba="/home/bostjan/.bashrc.base"
 ra="/home/bostjan/.config/ranger/rc.conf.base"
