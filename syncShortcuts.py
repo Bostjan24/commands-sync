@@ -1,8 +1,8 @@
 #!/usr/bin/python
 import csv
 
-movementShortcuts="/home/bostjan/Computing/Linux/Shortcuts/movementShortcuts.txt"
-editingShortcuts="/home/bostjan/Computing/Linux/Shortcuts/editingShortcuts.txt"
+movementShortcuts="/home/bostjan/Repos/shortcuts-sync/movementShortcuts.txt"
+editingShortcuts="/home/bostjan/Repos/shortcuts-sync/editingShortcuts.txt"
 
 ba="/home/bostjan/.bashrc.base"
 ra="/home/bostjan/.config/ranger/rc.conf.base"
@@ -24,7 +24,7 @@ with open(movementShortcuts, 'r') as fold:
         rang+=("map t"+line[0]+" tab_new "+line[1]+"\n")
         rang+=("map Y"+line[0]+" shell cp %s "+line[1]+"\n")
         rang+=("map m"+line[0]+" shell mv %s "+line[1]+"\n")
-        bash+=("alias g"+line[0]+"='cd  "+line[1]+" && ls -a'"+"\n")
+        bash+=("alias "+line[0]+"='cd  "+line[1]+" && ls -l'"+"\n")
     rang+="\n"
     bash+="\n"
 

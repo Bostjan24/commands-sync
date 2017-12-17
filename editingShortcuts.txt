@@ -3,7 +3,8 @@ cra	~/.config/ranger/rc.conf.base
 cqb	~/.config/qutebrowser/config.py
 cte	~/.config/termite/config
 cba	~/.bashrc.base
-ces	~/Computing/Linux/Shortcuts/editingShortcuts.txt
-cms	~/Computing/Linux/Shortcuts/movementShortcuts.txt
+ces	~/Repos/shortcuts-sync/editingShortcuts.txt
+cms	~/Repos/shortcuts-sync/movementShortcuts.txt
+css	~/Repos/shortcuts-sync/syncShortcuts.py
 cmu	~/.mutt/muttrc
 cem	~/.emacs
