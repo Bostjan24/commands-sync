@@ -23,7 +23,7 @@ with open(movementShortcuts, 'r') as fold:
         rang+=("map g"+line[0]+" cd "+line[1]+"\n")
         rang+=("map t"+line[0]+" tab_new "+line[1]+"\n")
         rang+=("map Y"+line[0]+" shell cp %s "+line[1]+"\n")
-        rang+=("map m"+line[0]+" shell mv %s "+line[1]+"\n")
+        rang+=("map y"+line[0]+" shell mv %s "+line[1]+"\n")
         bash+=("alias "+line[0]+"='cd  "+line[1]+" && ls -l'"+"\n")
     rang+="\n"
     bash+="\n"

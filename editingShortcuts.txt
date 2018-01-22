@@ -8,3 +8,4 @@ cms	~/Repos/shortcuts-sync/movementShortcuts.txt
 css	~/Repos/shortcuts-sync/syncShortcuts.py
 cmu	~/.mutt/muttrc
 cem	~/.emacs
+cpb	~/.config/polybar/config
